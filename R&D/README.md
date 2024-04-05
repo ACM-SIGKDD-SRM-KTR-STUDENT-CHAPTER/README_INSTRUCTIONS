@@ -142,6 +142,4 @@ You can acknowledge any individual, group, institution or service.
 * [SRM KTR SIGKDD Student Chapter](https://github.com/ACM-SIGKDD-SRM-KTR-STUDENT-CHAPTER)
 * [Exectra](https://github.com/)
 
-## Thank you
 
-<!-- If this is useful: [![Buy me a coffee](https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-1.svg)](https://www.buymeacoffee.com/catiaspsilva) -->
