@@ -96,7 +96,7 @@ For example, this is how you would list them:
   ```
 
 <!-- USAGE EXAMPLES -->
-## Usage
+## Usage - Problem Statement and Your solution
 
 Use this space to show useful examples of how a project can be used. For course projects, include which file to execute and the format of any input variables.
 
