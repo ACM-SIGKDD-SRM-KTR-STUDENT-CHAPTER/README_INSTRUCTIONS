@@ -12,10 +12,10 @@
   </p>
   
   # Research & Development
-<a href="R&D/README.Md">Click here to view README.Md format.</a>
+<a href="./R&D/README.md">Click here to view README.md format.</a>
 
   # Web/App Development
-<a href="WEBAPP/README.Md">Click here to view README.Md format</a>
+<a href="WEBAPP/README.md">Click here to view README.md format</a>
 
  ## Current Contributors 🔻
 <div align="center"><a href="https://github.com/ACM-SIGKDD-SRM-KTR-STUDENT-CHAPTER/README_INSTRUCTIONS/graphs/contributors">
