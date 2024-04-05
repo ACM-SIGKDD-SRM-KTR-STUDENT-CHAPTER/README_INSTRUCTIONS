@@ -11,7 +11,7 @@
     <a href="https://github.com/catiaspsilva/README-template/blob/main/images/docs.txt"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="#usage">View Demo</a>
+    <a href="Usage-Problem-Statement-and-Your-solution">View Demo</a>
     ·
     <a href="https://github.com/catiaspsilva/README-template/issues">Report Bug</a>
     ·
