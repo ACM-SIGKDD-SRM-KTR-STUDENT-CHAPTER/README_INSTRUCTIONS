@@ -5,7 +5,7 @@
 
   <p align="center">
   <a href="downedmarkdown.vercel.app">
-    <img alt = "Downed Logo" width="250" src = "https://srmsigkddtesting.vercel.app/static/media/srmsigkdd.23f2521d9133f1a1056f.png">
+    <img alt = "Downed Logo" width="130" src = "https://srmsigkddtesting.vercel.app/static/media/srmsigkdd.23f2521d9133f1a1056f.png">
   </a>
 
   # Research & Development
