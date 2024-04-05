@@ -80,11 +80,7 @@ You can include tables or images to summarize your results when and if appropria
 
 In this section you should provide instructions on how to use this repository to recreate your project locally.
 
-### Dependencies
-
-Here, list all libraries, packages and other dependencies that need to be installed to run your project. Include library versions and how they should be installed if a special requirement is needed.
-
-> Make sure you make requirements.txt having all the dependencies required to run the code
+### Running on local
 
 For example, this is how you would list them:
 * Installing npm
