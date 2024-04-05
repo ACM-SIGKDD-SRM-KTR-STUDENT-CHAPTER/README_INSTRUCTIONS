@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/catiaspsilva/README-template">
+  <a href="https://github.com/ACM-SIGKDD-SRM-KTR-STUDENT-CHAPTER/README_INSTRUCTIONS">
     <img src="https://srmsigkddtesting.vercel.app/static/media/srmsigkdd.23f2521d9133f1a1056f.png" alt="Logo" width="150" height="150">
   </a>
 
@@ -88,11 +88,11 @@ Here, list all libraries, packages and other dependencies that need to be instal
 > Make sure you make requirements.txt having all the dependencies required to run the code
 
 For example, this is how you would list them:
-* All dependencies to install
+* Transformers 4.8.0
   ```sh
   pip install -r requirements.txt
   ```
-* Example of requirement.txt
+* OpenCV 4.5.2
   ```sh
   tensorflow
   opencv-python
@@ -106,7 +106,7 @@ For example, this is how you would list them:
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/catiaspsilva/README-template.git
+   git clone https://github.com/ACM-SIGKDD-SRM-KTR-STUDENT-CHAPTER/README_INSTRUCTIONS.git
    ```
 2. Setup (and activate) your environment
   ```sh
