@@ -76,20 +76,12 @@ For example, this is how you would list them:
   ```
 * OpenCV 4.5.2
   ```sh
-  conda install -c conda-forge opencv
-  ```
-### Alternative: Export your Environment
-
-Alternatively, you can export your Python working environment, push it to your project's repository and allow users to clone it locally. This way, anyone can install it and they will have all dependencies needed. Here is how you export a copy of your Python environment:
-
-  ```sh
-  conda env export > requirements.yml
-  ```
-
-The user will be able to recreate it using:
-
-  ```sh
-  conda env create -f requirements.yml
+  tensorflow
+  opencv-python
+  mediapipe
+  numpy
+  flask
+  jsonify
   ```
 
 ### Installation
@@ -100,7 +92,7 @@ The user will be able to recreate it using:
    ```
 2. Setup (and activate) your environment
   ```sh
-  conda env create -f requirements.yml
+  your running etc
   ```
 
 <!-- USAGE EXAMPLES -->
@@ -147,14 +139,8 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
 ## Acknowledgements
 
 You can acknowledge any individual, group, institution or service.
-* [Catia Silva](https://faculty.eng.ufl.edu/catia-silva/)
-* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
-* [Img Shields](https://shields.io)
-* [Choose an Open Source License](https://choosealicense.com)
-* [GitHub Pages](https://pages.github.com)
-* [Animate.css](https://daneden.github.io/animate.css)
-* [Loaders.css](https://connoratherton.com/loaders)
-* [Slick Carousel](https://kenwheeler.github.io/slick)
+* [SRM KTR SIGKDD Student Chapter](https://github.com/ACM-SIGKDD-SRM-KTR-STUDENT-CHAPTER)
+* [Exectra](https://github.com/)
 
 ## Thank you
 
