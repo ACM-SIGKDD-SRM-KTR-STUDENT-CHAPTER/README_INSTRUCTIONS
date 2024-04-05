@@ -76,6 +76,10 @@ You can include tables or images to summarize your results when and if appropria
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 
+## DEMO 
+<img align="center" alt="Home Page"  src="https://raw.githubusercontent.com/ADITYAVOFFICIAL/Official_Website/main/public/ss.png">
+
+
 <!-- GETTING STARTED -->
 ## Getting Started
 
@@ -88,18 +92,13 @@ Here, list all libraries, packages and other dependencies that need to be instal
 > Make sure you make requirements.txt having all the dependencies required to run the code
 
 For example, this is how you would list them:
-* Transformers 4.8.0
+* Installing npm
   ```sh
-  pip install -r requirements.txt
+  npm install
   ```
-* OpenCV 4.5.2
+* Running the website on local machine
   ```sh
-  tensorflow
-  opencv-python
-  mediapipe
-  numpy
-  flask
-  jsonify
+  npm start or npm run dev
   ```
 
 ### Installation
@@ -121,6 +120,7 @@ Use this space to show useful examples of how a project can be used. For course 
 Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
 _For more examples, please refer to the [Documentation](https://example.com)_
+
 
 <!-- ROADMAP -->
 ## Roadmap
