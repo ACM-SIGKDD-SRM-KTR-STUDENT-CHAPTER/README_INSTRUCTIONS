@@ -8,14 +8,14 @@
   <p align="center">
     Title of the project
     <br />
-    <a href="https://github.com/catiaspsilva/README-template/blob/main/images/docs.txt"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/ACM-SIGKDD-SRM-KTR-STUDENT-CHAPTER/README_INSTRUCTIONS"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="Usage-Problem-Statement-and-Your-solution">View Demo</a>
     ·
-    <a href="https://github.com/catiaspsilva/README-template/issues">Report Bug</a>
+    <a href="https://github.com/ACM-SIGKDD-SRM-KTR-STUDENT-CHAPTER/README_INSTRUCTIONS/issues">Report Bug</a>
     ·
-    <a href="https://github.com/catiaspsilva/README-template/issues">Request Feature</a>
+    <a href="https://github.com/ACM-SIGKDD-SRM-KTR-STUDENT-CHAPTER/README_INSTRUCTIONS/issues">Request Feature</a>
   </p>
 </p>
 
@@ -61,7 +61,7 @@
 
 In this section you should describe your project, including any datasets you used and appropriate citations. You may refer to your project report or cite your paper for more detailed information.
 
-[Here goes the title with hyperlink](https://github.com/catiaspsilva/README-template)
+[Here goes the title with hyperlink](https://github.com/ACM-SIGKDD-SRM-KTR-STUDENT-CHAPTER/README_INSTRUCTIONS)
 
 You can include tables or images to summarize your results when and if appropriate.
 
@@ -125,7 +125,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/catiaspsilva/README-template/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/ACM-SIGKDD-SRM-KTR-STUDENT-CHAPTER/README_INSTRUCTIONS/issues) for a list of proposed features (and known issues).
 
 <!-- CONTRIBUTING -->
 ## Contributing
