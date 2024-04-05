@@ -88,11 +88,11 @@ Here, list all libraries, packages and other dependencies that need to be instal
 > Make sure you make requirements.txt having all the dependencies required to run the code
 
 For example, this is how you would list them:
-* Transformers 4.8.0
+* Installing all dependencies
   ```sh
   pip install -r requirements.txt
   ```
-* OpenCV 4.5.2
+* Example of requirements.txt
   ```sh
   tensorflow
   opencv-python
